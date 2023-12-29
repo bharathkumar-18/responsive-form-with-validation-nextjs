@@ -10,7 +10,7 @@ This project is built using the following concepts:
 * useState Hook
 * Multiple states in a single object using useStateHook
 * Real-time Validation with Regex in Javascript
-<br>
+
 Tech Stack Used: 
 * HTML
 * Tailwind CSS
